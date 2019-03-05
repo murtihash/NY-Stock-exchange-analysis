@@ -1,3 +1,7 @@
+
+## In order to view all graphs please use this link:
+## https://nbviewer.jupyter.org/github/murtihash/NY-Stock-exchange-analysis/blob/master/NY%20stock%20exchange.ipynb
+
 # NY-Stock-exchange-analysis till 2016
 # Updated 2 years ago by Domink Gawlik
 # Dataset consists of following files:
