@@ -7,3 +7,4 @@
 # securities.csv: general description of each company with division on sectors
 # fundamentals.csv: metrics extracted from annual SEC 10K fillings (2012-2016), should be enough to derive most of popular fundamental indicators.
 # Exploratory Data Analysis
+# link : https://www.kaggle.com/dgawlik/nyse
